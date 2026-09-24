@@ -19,7 +19,41 @@ h2 {
     font-size: 24px;
 }
 
+#main-content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px 40px;
+}
+.decklist-title {
+    text-align: left;
+    font-size: 1.6rem;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.decklist-section {
+    margin: auto;
+    text-align: left;
+    max-width: 1100px;
+}
+
+.synergies-section {
+    text-align: left;
+    max-width: 800px;
+    margin: auto;
+}
+
+.synergies-section ul {
+    margin-bottom: 25px;
+}
+
+
+
 /* Links */
 a {
     color: #3b82f6;
+}
+
+#site-footer {
+    margin-top: auto;
+    border-top: 1px solid #333344;
 }
